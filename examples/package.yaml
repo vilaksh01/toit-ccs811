@@ -1,0 +1,3 @@
+dependencies:
+  quiic_ccs811:
+    path: ..
